@@ -43,7 +43,7 @@ Each folder contains:
 
 ## 🧠 Topics Covered
 
-### 1. **Time Complexity**
+### 1. **Complexity**
    - Big O, Big Theta, Big Omega
    - Analyzing iterative algorithms
    - Analyzing recursive algorithms
@@ -54,7 +54,7 @@ Each folder contains:
 
 Use this checklist to track your progress:
 
-- [ ] Time Complexity
+- [ ] Complexity
 
 ---
 
